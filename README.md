@@ -1,3 +1,4 @@
 ﻿# Java Study
-> 아직 작성중입니다.
+https://www.hackerrank.com
 
+여기서 문제를 풀어봅니다
